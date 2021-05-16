@@ -29,11 +29,11 @@
 		},
 		"Main/Season/Start with full gauge(rest of the stages)#1": {
 			"addr": "0x42CEFD",
-			"code": "E9 D8DD0500 90"
+			"code": "E8 D8DD0500 90"
 		},
 		"Main/Season/Start with full gauge(rest of the stages)#2": {
 			"addr": "0x48ACDA",
-			"code": "C705 08584A00 74040000 E9 1A22FAFF"
+			"code": "C705 08584A00 74040000 C3"
 		},
 		"Main/Season/Keep maxed(spring, autumn, winter)": {
 			"addr": "0x40DCAE",
